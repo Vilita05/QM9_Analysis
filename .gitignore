@@ -136,8 +136,6 @@ celerybeat.pid
 
 ##folder
 data/
-QM9/
-
 
 # Environments
 .env
