@@ -1,0 +1,11 @@
+torch
+torch-geometric
+matplotlib
+plotly
+seaborn
+pandas
+numpy
+jupyter
+scikit-learn
+rdkit
+streamlit
